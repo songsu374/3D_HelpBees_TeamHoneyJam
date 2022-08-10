@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cb2b3bfc34637104c92c6a0d983a6b2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerTarget: {instanceID: 0}
+  - Honeycombfactory: {fileID: 5009862921054397488, guid: 18d81c578055c50458e8c3a183299641, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
